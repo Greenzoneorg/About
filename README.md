@@ -6,4 +6,13 @@ This project's Idea is to allow people to basically search to see if the item is
 
 Recycling isn't always easy. I'm confused, and you are maybe. It's time there's a simpler way. Although, websites like this exist already, it's not exactly the best.
 
-We want to make a simple fast and easy way to find what items are and are not.
+We want to make a simple fast and easy way to find what items are and are not.'
+
+# Greenzone
+
+We have 2 main repos.
+
+[Site](https://github.com/Greenzoneorg/site), the site page what is the front-end and main website
+[Api](https://github.com/Greenzoneorg/Api), this is the API, I think for Greenzone.
+
+
