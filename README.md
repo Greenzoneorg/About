@@ -16,3 +16,8 @@ We have 2 main repos.
 [Api](https://github.com/Greenzoneorg/Api), this is the API, I think for Greenzone.
 
 
+# Made by Teenagers and a 12 year old
+
+We're made my 2 teenagers, and 1 12 year old.
+
+Arav, Mudrank and Cs Math nerd
