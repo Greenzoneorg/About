@@ -1,3 +1,4 @@
+
 ## About
 
 This project's Idea is to allow people to basically search to see if the item is recyclable. A simple, minimal, and fast way to find the right way to recycle and find the right facts.
@@ -18,6 +19,6 @@ We have 2 main repos.
 
 # Made by Teenagers and a 12 year old
 
-We're made my 2 teenagers, and 1 12 year old.
+We're made by **[2] teenagers**, and **[1] 12 year old**.
 
-Arav, Mudrank and Cs Math nerd
+[Arav](https://twitter.com/HeyArav) , [Mudrank](https://twitter.com/mudrankgupta) , and [cs_math_nerd/Athrav](https://twitter.com/cs_math_nerd)
