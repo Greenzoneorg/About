@@ -21,4 +21,4 @@ We have 2 main repos.
 
 We're made by **[2] teenagers**, and **[1] 12 year old**.
 
-[Arav](https://twitter.com/HeyArav) , [Mudrank](https://twitter.com/mudrankgupta) , and [cs_math_nerd/Athrav](https://twitter.com/cs_math_nerd)
+[Arav](https://twitter.com/HeyArav) , [Mudrank](https://twitter.com/mudrankgupta) , and [cs_math_nerd](https://twitter.com/cs_math_nerd)
